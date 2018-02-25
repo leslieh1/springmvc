@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="ssm">
+    <CLASSES>
+      <root url="jar://D:/Jar/SSM/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/Jar/SSM/aopalliance-1.0.jar!/" />
+      <root url="jar://D:/Jar/SSM/cglib-2.2.2.jar!/" />
+      <root url="jar://D:/Jar/SSM/commons-dbcp-1.2.2.jar!/" />
+      <root url="jar://D:/Jar/SSM/commons-logging-1.1.1.jar!/" />
+      <root url="jar://D:/Jar/SSM/asm-3.3.1.jar!/" />
+      <root url="jar://D:/Jar/SSM/aspectjweaver-1.6.11.jar!/" />
+      <root url="jar://D:/Jar/SSM/junit-4.9.jar!/" />
+      <root url="jar://D:/Jar/SSM/jstl-1.2.jar!/" />
+      <root url="jar://D:/Jar/SSM/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://D:/Jar/SSM/commons-pool-1.3.jar!/" />
+      <root url="jar://D:/Jar/SSM/log4j-core-2.0-rc1.jar!/" />
+      <root url="jar://D:/Jar/SSM/log4j-api-2.0-rc1.jar!/" />
+      <root url="jar://D:/Jar/SSM/mybatis-3.2.7.jar!/" />
+      <root url="jar://D:/Jar/SSM/mybatis-spring-1.2.2.jar!/" />
+      <root url="jar://D:/Jar/SSM/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://D:/Jar/SSM/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://D:/Jar/SSM/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-aspects-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-context-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-aop-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-beans-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-context-support-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-core-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-expression-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-jdbc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-orm-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-test-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-tx-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-web-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-webmvc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/fileupload/commons-io-2.4.jar!/" />
+      <root url="jar://D:/Jar/fileupload/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://D:/Jar/springmvc-json/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar://D:/Jar/springmvc-json/jackson-mapper-asl-1.9.11.jar!/" />
+      <root url="jar://D:/Jar/hibernate-validator/hibernate-validator-4.3.0.Final.jar!/" />
+      <root url="jar://D:/Jar/hibernate-validator/jboss-logging-3.1.0.CR2.jar!/" />
+      <root url="jar://D:/Jar/hibernate-validator/validation-api-1.0.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

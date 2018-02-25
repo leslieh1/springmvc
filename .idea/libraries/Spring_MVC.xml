@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Spring MVC" type="spring-mvc">
+    <CLASSES>
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-aop-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-aspects-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-beans-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-context-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-context-support-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-core-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-expression-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-jdbc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-orm-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-test-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-tx-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-web-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/spring-framework-4.3.13.RELEASE/libs/spring-webmvc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://D:/Jar/SSM/jstl-1.2.jar!/" />
+      <root url="jar://D:/Jar/SSM/aopalliance-1.0.jar!/" />
+      <root url="jar://D:/Jar/SSM/aspectjweaver-1.6.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
